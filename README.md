@@ -1,1 +1,4 @@
-# Login-authentication
+# Login authentication  <img align="center" alt="Gut-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Gut-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Gut-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"><img align="center" alt="Gut-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+
+#
+O Programa é um sistema de login que cadastra o usuario no banco de dados, ao cadastrar ele faz a criptografia da sua senha, ao fazer o login caso valido o usuario entra em outra tela que diz que retorna seu nome de usuario e diz que o mesmo é um usuario valido, se não o mesmo será instruido pelas mensagens de error, o programa funciona como um crud php simples com estilização basica em css, e integração com autenticação e criptografia ao banco de dados.
